@@ -30,7 +30,7 @@ def print_banner():
                                                                                       
 
                          [ JSRecon v1.0 ]
-                      github.com/kuna098
+                        github.com/kuna098
     """
     print(Fore.CYAN + Style.BRIGHT + banner)
 
